@@ -53,11 +53,8 @@
             <div class="container">
                 <div id="slider-section">
                     <div class="row">
-                        <div class="col-md-8">
-                            <h1>Your Path to Laravel Mastery <span>Starts Here...</span></h1>
-                        </div>
-                        <div class="col-md-4">
-                            <h4></h4>
+                        <div class="col-md-12">
+                            <h1>Your Path to Laravel Career <br><span>Starts Here...</span></h1>
                         </div>
                     </div>
                 </div>
